@@ -1,10 +1,10 @@
-# Patient Health Records - App Modernization with RedHat OpenShift
+# Patient Health Records - App Modernization with Red Hat OpenShift
 
 This project is a patient records user interface for a conceptual health records system. The UI is programmed with open standards JavaScript and modern, universal CSS, and HTML5 Canvas for layout.
 
 The UI is served by a simple Node.JS Express server, and the overall project goals are:
 
-- to use the project to show a step by step guide of deploying the app on OpenShift Source to Image ( S2I )
+- to use the project to show a step by step guide of deploying the app on OpenShift Source to Image (S2I)
 - to illustrate the versatility of Kubernetes based micro services for modernizing traditional applications - for instance mainframe based applications, or classic Java app server applications
 - to experiment and explore open standards front end technologies for rendering custom charts, and for responsive design
 
